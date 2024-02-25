@@ -9,3 +9,4 @@ My first repository in GetHub
 * Что такое Git
 * Что такое GitHub
 * Что такое Markdown
+Что нам ещё следует изучить?
